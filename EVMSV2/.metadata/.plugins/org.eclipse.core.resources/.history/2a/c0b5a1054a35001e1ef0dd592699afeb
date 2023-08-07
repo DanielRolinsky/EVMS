@@ -72,6 +72,8 @@ char DIPSwitchReading[5];
 float sumV = 0;
 int offset = 2048;
 
+// Github test
+
 float evaluateCurrent() {
 	// Start ADC Conversion
 	for (int n = 0; n < 10000; n++){
