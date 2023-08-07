@@ -1,0 +1,18 @@
+!SESSION 2023-08-07 13:35:29.955 -----------------------------------------------
+eclipse.buildId=Version 1.11.2
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-08-07 13:36:07.826
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-08-07 13:36:07.947
+!MESSAGE Log4j initialized with config file C:\Users\danie\STM32CubeIDE\EVMS2\EVMS\EVMSV2\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-08-07 13:36:12.160
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-08-07 13:36:59.875
+!MESSAGE Indexed 'EVMS' (22 sources, 113 headers) in 4.5 sec: 10,396 declarations; 55,418 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.28%)
