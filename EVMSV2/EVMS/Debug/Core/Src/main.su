@@ -1,0 +1,13 @@
+../Core/Src/main.c:75:7:evaluateCurrent	40	static
+../Core/Src/main.c:99:5:binaryToDecimal	40	static
+../Core/Src/main.c:112:6:dipSwitchRead	8	static
+../Core/Src/main.c:145:5:setMaxCurrent	24	static
+../Core/Src/main.c:236:5:timeDelayRead	24	static
+../Core/Src/main.c:257:5:main	120	static
+../Core/Src/main.c:324:6:SystemClock_Config	88	static
+../Core/Src/main.c:371:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:418:13:MX_ADC2_Init	24	static
+../Core/Src/main.c:465:13:MX_TIM2_Init	32	static
+../Core/Src/main.c:510:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:543:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:583:6:Error_Handler	4	static,ignoring_inline_asm
